@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main()
+{
+char new_string="this one";
+printf("my string is %s ",new_string):
+return 0;
+}
