@@ -1,0 +1,13 @@
+//using %d and %f
+#include<stdio.h>
+int main()
+{
+int a,b,sum;
+float avg;
+print("enter 2 integer values\n");
+scanf("%d %d " ,&a ,&b);
+sum=a+b;
+avg=sum/2;
+print("average of",a,"and",b,"is",%f);
+return 0;
+}
